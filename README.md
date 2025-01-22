@@ -1,5 +1,5 @@
 # Nmap-Prompt
-Prompt/Command	Fungsi
+#Prompt/Command	Fungsi
 nmap <IP>	                      Melakukan scan port default pada target.
 nmap -sS <IP>	                  Melakukan Stealth Scan (SYN scan).
 nmap -sT <IP>	                  Melakukan TCP Connect Scan (alternatif jika SYN scan tidak tersedia).
